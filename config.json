@@ -1,0 +1,8 @@
+{
+  "FFFF0000": "This one is red",
+  "FF00FF00": "This one is green",
+  "FF0000FF": "This one is blue",
+  "indexed:64": "No fill (indexed 64)",
+  "theme:0": "Theme color 0"
+}
+
